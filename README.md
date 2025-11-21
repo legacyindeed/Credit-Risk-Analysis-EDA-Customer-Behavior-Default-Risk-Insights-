@@ -1,8 +1,8 @@
 Credit Risk EDA
+
 This project analyzes a synthetic credit risk dataset to understand customer financial behavior and identify key drivers of loan default. The analysis explores income, utilization, delinquencies, spending patterns, and customer segments commonly used in fintech and credit underwriting.
 
 Project Goals
-
 Explore customer demographics and financial behavior
 Understand which factors drive higher default risk
 Compare risk across income, utilization, and spending segments
@@ -62,6 +62,8 @@ Have higher utilization
 Have more delinquencies
 Have more recent inquiries
 These are standard predictors in credit risk modeling.
+
+
 
 Key Insights Summary
 Income and utilization are strong drivers of default risk.
